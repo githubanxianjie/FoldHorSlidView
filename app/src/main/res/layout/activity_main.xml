@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+
+    <comm.custom.RelativeLayoutViewPager
+        android:id="@+id/view_pager_parent"
+        android:layout_width="match_parent"
+        android:layout_height="208dp"
+        android:layout_below="@+id/ic_head"
+        android:clipChildren="false"
+        android:paddingTop="@dimen/comm_14dp"
+        android:paddingBottom="@dimen/comm_14dp"
+        android:paddingLeft="@dimen/comm_16dp"
+        android:paddingRight="@dimen/comm_16dp" >
+        <comm.custom.CustomViewPager
+            android:id="@+id/cvp_view_pager"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:clipChildren="false" >
+        </comm.custom.CustomViewPager>
+    </comm.custom.RelativeLayoutViewPager>
+
+
+</android.support.design.widget.CoordinatorLayout>

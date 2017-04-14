@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 首页移动标题栏专用长度，不需要适配 -->
+<!-- <dimen name="move_tab_header_height">251dp</dimen>
+    <dimen name="move_tab_image_height">194dp</dimen>
+    <dimen name="move_tab_select_height">93dp</dimen>
+    <dimen name="move_tab_mini_height">76dp</dimen>
+    <dimen name="move_tab_right_offset">30dp</dimen>
+    <dimen name="move_tab_search_height">50dp</dimen>-->
+    <dimen name="move_tab_header_height">260dp</dimen>
+    <dimen name="move_tab_image_height">170dp</dimen>
+    <dimen name="move_tab_select_height">90dp</dimen>
+    <dimen name="move_tab_mini_height">76dp</dimen>
+    <dimen name="move_tab_right_offset">30dp</dimen>
+    <dimen name="move_tab_search_height">50dp</dimen>
+
+    <!-- 详情页专用长度，不需要适配 -->
+    <dimen name="detail_down_button_height">56dp</dimen>
+    <dimen name="detail_move_tab_select_height">45dp</dimen>
+    <dimen name="detail_move_tab_header_no_tab_height">166dp</dimen>
+    <dimen name="detail_move_tab_header_height">210.3dp</dimen>
+    <dimen name="detail_move_tab_video_header_no_tab_height">192dp</dimen>
+    <dimen name="detail_move_tab_video_header_height">237dp</dimen>
+    <dimen name="detail_move_tab_mini_height">140dp</dimen>
+
+    <!-- 适配专用长度，如不需要适配，请无使用这些值 -->
+    <dimen name="sp_icon_select_offset">10dp</dimen>
+    <dimen name="sp_icon_select_offset_cut">2dp</dimen>
+    <dimen name="sp_150dp">150dp</dimen>
+    <dimen name="sp_120dp">120dp</dimen>
+    <dimen name="sp_36dp">36dp</dimen>
+    <dimen name="sp_30dp">30dp</dimen>
+    <dimen name="sp_25dp">25dp</dimen>
+    <dimen name="sp_20dp">20dp</dimen>
+    <dimen name="sp_18dp">18dp</dimen>
+    <dimen name="sp_12dp">12dp</dimen>
+    <dimen name="sp_10dp">10dp</dimen>
+    <dimen name="sp_6dp">6dp</dimen>
+    <dimen name="sp_111_48dp">48dp</dimen>
+    <dimen name="me_syng_height">50dp</dimen>
+    <!-- TAB高度 -->
+    <dimen name="activity_tab_height">50dp</dimen>
+    <!-- 标题栏高度 -->
+    <dimen name="activity_title_height">46dp</dimen>
+    <dimen name="activity_title_height2">40dp</dimen>
+    <!-- 图标统一高度 -->
+    <dimen name="icon_height">27dp</dimen>
+
+    <!-- 卡片title margin -->
+<!--     <dimen name="card_title_top">8dp</dimen> -->
+
+
+    <!-- 字号 -->
+    <dimen name="text_height_7dp">7dp</dimen>
+    <dimen name="text_height_8dp">8dp</dimen>
+    <dimen name="text_height_9dp">9dp</dimen>
+    <dimen name="text_height_10dp">10dp</dimen>
+    <dimen name="text_height_10.3dp">10.3dp</dimen>
+    <dimen name="text_height_11dp">11dp</dimen>
+    <dimen name="text_height_12dp">12dp</dimen>
+    <dimen name="text_height_13dp">13dp</dimen>
+    <dimen name="text_height_14dp">14dp</dimen>
+    <dimen name="text_height_15dp">15dp</dimen>
+    <dimen name="text_height_16dp">16dp</dimen>
+    <dimen name="text_height_17dp">17dp</dimen>
+    <dimen name="text_height_18dp">18dp</dimen>
+    <dimen name="text_height_19dp">19dp</dimen>
+    <dimen name="text_height_20dp">20dp</dimen>
+    <dimen name="text_height_20.3dp">20.3dp</dimen>
+    <dimen name="text_height_23dp">23dp</dimen>
+    <dimen name="text_height_24dp">24dp</dimen>
+    <dimen name="text_height_25dp">25dp</dimen>
+    <dimen name="text_height_27dp">27dp</dimen>
+    <dimen name="dimen_143dp">143dp</dimen>
+
+    <!-- toast -->
+    <dimen name="toast_bg_padding_top">13dp</dimen>
+    <dimen name="toast_bg_padding_bottom">13dp</dimen>
+    <dimen name="toast_bg_padding_left">16dp</dimen>
+    <dimen name="toast_bg_padding_right">16dp</dimen>
+    <dimen name="toast_bottom">146.6dp</dimen>
+
+    <!-- 游戏tab页图标高度 -->
+    <dimen name="icon_tab_game_height">58dp</dimen>
+    <dimen name="icon_tab_game_height_f">66dp</dimen>
+    <dimen name="dimen12dp">12dp</dimen>
+    <dimen name="dimen13dp">13dp</dimen>
+    <dimen name="dimen16dp">16dp</dimen>
+    <dimen name="dimen15dp">15dp</dimen>
+    <dimen name="dimen14dp">14dp</dimen>
+    <dimen name="dimen17dp">17dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+
+    <!-- 引导页按钮距底边距离 -->
+
+
+    <!-- listview底部加载更多高度 -->
+    <dimen name="listview_get_more_height">62dp</dimen>
+    <dimen name="view_seperate_height">0.3dp</dimen>
+    <!-- 发帖图标大小 -->
+
+    <!--  -->
+   <dimen name="comm_0.3dp">0.3dp</dimen>
+   <dimen name="comm_2dp">2dp</dimen>
+   <dimen name="comm_3dp">3dp</dimen>
+   <dimen name="comm_4dp">4dp</dimen>
+   <dimen name="comm_5dp">5dp</dimen>
+   <dimen name="comm_6dp">6dp</dimen>
+   <dimen name="comm_7dp">7dp</dimen>
+   <dimen name="comm_8dp">8dp</dimen>
+      <dimen name="comm_9dp">9dp</dimen>
+   <dimen name="comm_10dp">10dp</dimen>
+   <dimen name="comm_11dp">11dp</dimen>
+   <dimen name="comm_12dp">12dp</dimen>
+   <dimen name="comm_13dp">13dp</dimen>
+   <dimen name="comm_14dp">14dp</dimen>
+   <dimen name="comm_15dp">15dp</dimen>
+   <dimen name="comm_16dp">16dp</dimen>
+   <dimen name="comm_17dp">17dp</dimen>
+   <dimen name="comm_18dp">18dp</dimen>
+   <dimen name="comm_19dp">19dp</dimen>
+   <dimen name="comm_20dp">20dp</dimen>
+   <dimen name="comm_24dp">24dp</dimen>
+   <dimen name="comm_22dp">22dp</dimen>
+     <dimen name="comm_26dp">26dp</dimen>
+     <dimen name="comm_28dp">28dp</dimen>
+     <dimen name="comm_29dp">29dp</dimen>
+     <dimen name="comm_30dp">30dp</dimen>
+     <dimen name="comm_32dp">32dp</dimen>
+     <dimen name="comm_33dp">33dp</dimen>
+     <dimen name="comm_34dp">34dp</dimen>
+     <dimen name="comm_35dp">35dp</dimen>
+     <dimen name="comm_36dp">36dp</dimen>
+     <dimen name="comm_38dp">38dp</dimen>
+   <dimen name="comm_40dp">40dp</dimen>
+   <dimen name="comm_46dp">46dp</dimen>
+   <dimen name="comm_48dp">48dp</dimen>
+   <dimen name="comm_50dp">50dp</dimen>
+   <dimen name="comm_58dp">58dp</dimen>
+   <dimen name="comm_54dp">54dp</dimen>
+   <dimen name="comm_56dp">56dp</dimen>
+   <dimen name="comm_60dp">60dp</dimen>
+   <dimen name="comm_68dp">68dp</dimen>
+   <dimen name="comm_69dp">69dp</dimen>
+   <dimen name="comm_70dp">70dp</dimen>
+   <dimen name="comm_71dp">71dp</dimen>
+   <dimen name="comm_80dp">80dp</dimen>
+   <dimen name="comm_88dp">88dp</dimen>
+   <dimen name="comm_66dp">66dp</dimen>
+   <dimen name="comm_92dp">92dp</dimen>
+   <dimen name="comm_106dp">106dp</dimen>
+   <dimen name="comm_126dp">126dp</dimen>
+      <dimen name="comm_90dp">90dp</dimen>
+      <dimen name="comm_95dp">95dp</dimen>
+      <dimen name="comm_100dp">100dp</dimen>
+      <dimen name="comm_110dp">110dp</dimen>
+      <dimen name="comm_120dp">120dp</dimen>
+      <dimen name="comm_130dp">130dp</dimen>
+      <dimen name="comm_140dp">140dp</dimen>
+      <dimen name="comm_160dp">160dp</dimen>
+      <dimen name="comm_180dp">180dp</dimen>
+      <dimen name="comm_190dp">190dp</dimen>
+      <dimen name="comm_195dp">195dp</dimen>
+      <dimen name="comm_240dp">240dp</dimen>
+      <dimen name="comm_250dp">250dp</dimen>
+       <dimen name="comm_300dp">300dp</dimen>
+
+
+</resources>
