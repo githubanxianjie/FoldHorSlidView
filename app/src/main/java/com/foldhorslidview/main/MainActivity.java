@@ -19,7 +19,7 @@ import comm.custom.RelativeLayoutViewPager;
 public class MainActivity extends AppCompatActivity {
     private RelativeLayoutViewPager view_pager_parent;
     private CustomViewPager cvp_view_pager;
-    private CustomViewPagerAdapter pagerAdapter;//1224
+    private CustomViewPagerAdapter pagerAdapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
